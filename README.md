@@ -20,9 +20,9 @@ Equipe Core · 1ESPA
 ## Links
 
 - **Simulação no Wokwi:** https://wokwi.com/projects/480151390850541569
-- **Vídeo (YouTube):** _(colar o link)_
+- **Vídeo (YouTube):** 
 - **Banco de dados ao vivo (painel do site):** https://leandror.pythonanywhere.com/
-
+- **Link do repositório:**
 ## Equipe
 
 | Nome | RM |
