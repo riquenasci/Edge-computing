@@ -20,9 +20,9 @@ Equipe Core · 1ESPA
 ## Links
 
 - **Simulação no Wokwi:** https://wokwi.com/projects/480151390850541569
-- **Vídeo (YouTube):**https://youtu.be/GTCEOIkG4ck?si=pjKcUwUS9YDIbxLb
+- **Vídeo (YouTube):** https://youtu.be/GTCEOIkG4ck?si=pjKcUwUS9YDIbxLb
 - **Banco de dados ao vivo (painel do site):** https://leandror.pythonanywhere.com/
-- **Link do repositório:**https://github.com/riquenasci/Edge-computing
+- **Link do repositório:** https://github.com/riquenasci/Edge-computing
 ## Equipe
 
 | Nome | RM |
